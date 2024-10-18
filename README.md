@@ -74,6 +74,8 @@ Dropout is introduced to combat overfitting by randomly deactivating a proportio
 
 ## Results
 **Accuracy**: The model achieved an overall accuracy of 15% on the test dataset.
+
 **Evaluation Metrics**: Metrics like precision, recall, F1-score, and ROC-AUC score were calculated, showing the model’s performance in distinguishing between classes.
+
 **Visualizations**: Confusion matrix and ROC curve visualizations help to assess the model's performance in more detail.
 
